@@ -41,7 +41,7 @@
     </dependencies>
 
     <build>
-        <finalName>devquiz</finalName>
+        <finalName>dev-quiz-w06-4</finalName>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
